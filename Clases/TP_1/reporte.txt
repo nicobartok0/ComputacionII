@@ -1,0 +1,10 @@
+Reporte de Verificación de Cadena de Bloques
+===========================================
+
+Cantidad total de bloques: 60
+Número de bloques con alerta: 0
+Promedio general de frecuencia: 121.50
+Promedio general de presión sistólica: 150.24
+Promedio general de oxígeno: 94.52
+
+No se detectaron corrupciones en la cadena.
